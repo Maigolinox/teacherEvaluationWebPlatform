@@ -1,5 +1,9 @@
 # Teacher evaluation web platform
+
+![INDEX PART OF THE PLATFORM](https://ibb.co/jhkysqF)
  Technological University of Tlaxcala Teacher Evauation, I design and create all the platform, since the complements, the forms and the DB.
+ 
+ ![UNIVERSITY](https://ibb.co/rw5sZT2)
  
  It was stored under AWS server with SSL certificate, I use VESTA CP with UBUNTU v18 as O.S. of the VPS.
  

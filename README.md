@@ -3,4 +3,8 @@
  
  It was stored under AWS server with SSL certificate, I use VESTA CP with UBUNTU v18 as O.S. of the VPS.
  
- https://i.ytimg.com/vi/xYEvbneAhk4/maxresdefault.jpg
+![AMAZON WEB SERVICES EC2](https://i.ytimg.com/vi/xYEvbneAhk4/maxresdefault.jpg)
+
+
+![ADMINISTRATION PANEL](https://vestacp.com/img/features-slider/user.png)
+
